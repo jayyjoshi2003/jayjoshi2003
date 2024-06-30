@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **jaypaliwal237@gmail.com**
-
 - ⚡ Fun fact **I like to do photography**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayjoshi2003&show_icons=true&locale=en" alt="jayjoshi2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayjoshi2003&" alt="jayjoshi2003" /></p>
-
