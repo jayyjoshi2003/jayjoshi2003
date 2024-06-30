@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- ⚡ Fun fact **I like to do photography**
+- ⚡ Fun fact **I love to do photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
